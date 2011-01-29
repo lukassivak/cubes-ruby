@@ -1,0 +1,31 @@
+Cubes - Port of Online Analytical Processing (OLAP) Framework for Python
+
+ABOUT
+
+Cubes is a python framework for:
+* Online Analytical Processing - OLAP
+* multidimensional analysis
+* cube comptutation
+
+Ruby port is light-weighted and supports only logical model. Enables use of logical model metadata in
+ruby applications.
+
+Will support:
+
+* Cubes OLAP URL creation/parsing
+* URL based aggregation browsing
+
+Does not support and will not support:
+
+* view creation
+* cube computation
+
+DOCUMENTATION
+
+Python documentation can be found here:
+
+    http://databrewery.org/cubes/doc/
+
+AUTHOR
+
+Stefan Urbanek <stefan.urbanek@gmail.com>
