@@ -259,7 +259,7 @@ class Dimension
 
     def _initialize_default_flat_hierarchy()
         if not @_flat_hierarchy
-            @_flat_hierarchy = flat_hierarchy(levels[0])
+            @_flat_hierarchy = flat_hierarchy(@levels[0])
         end
     end
 
